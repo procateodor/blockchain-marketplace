@@ -1,0 +1,59 @@
+.main {
+    height: 100vh;
+    min-height: 800px;
+    font-size: 16px;
+    padding: 30px 15px;
+}
+
+.navbar span {
+    font-weight: bold;
+}
+
+.navbar {
+    margin: 10px 0 50px;
+}
+
+.title {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.ant-input-affix-wrapper:not(:last-child) {
+    margin-bottom: 8px;
+}
+
+.loading {
+    min-height: 300px;
+}
+
+.section-title {
+    margin-bottom: 20px;
+}
+
+.product-card {
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+.product-card .ant-col span {
+    font-weight: bold;
+}
+
+.ant-btn > span {
+    font-weight: normal !important;
+}
+
+.ant-divider {
+    margin: 10px 0;
+}
+
+.card {
+    padding: 10px;
+    background-color: #efefef;
+    border-radius: 8px;
+}
+
+.card:not(:last-child) {
+    margin-bottom: 10px;
+}
